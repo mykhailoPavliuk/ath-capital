@@ -1,0 +1,23 @@
+{
+  "cloudFunctionsUrl": "http://localhost:5001/ath-capital-cc911/us-central1",
+  "environment": "local",
+  "sentry": {
+    "dsn": "",
+    "enabled": true
+  },
+  "firebase": {
+    "projectId": "ath-capital-cc911",
+    "appId": "1:1086382844950:web:479fd276c7caabe251d937",
+    "storageBucket": "ath-capital-cc911.appspot.com",
+    "locationId": "europe-west",
+    "apiKey": "AIzaSyBZzAfGF1yRm3xcmAmMqVOWQgQOF4gGqUs",
+    "authDomain": "ath-capital-cc911.firebaseapp.com",
+    "messagingSenderId": "1086382844950",
+    "databaseURL": "http://localhost:9000?ns=ath-capital-cc911"
+  },
+  "emulators": {
+    "databaseHost": "localhost:9000",
+    "firestoreHost": "localhost:8080",
+    "functionsHost": "http://localhost:5001"
+  }
+}

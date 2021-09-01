@@ -1,0 +1,11 @@
+{
+  "firebase": {
+    "projectId": "ath-capital-cc911",
+    "appId": "1:1086382844950:web:479fd276c7caabe251d937",
+    "storageBucket": "ath-capital-cc911.appspot.com",
+    "locationId": "europe-west",
+    "apiKey": "AIzaSyBZzAfGF1yRm3xcmAmMqVOWQgQOF4gGqUs",
+    "authDomain": "ath-capital-cc911.firebaseapp.com",
+    "messagingSenderId": "1086382844950"
+  }
+}
